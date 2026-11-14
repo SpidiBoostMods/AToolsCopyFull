@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"atools_copyfull","version":"1.0.0","name":"ATools: CopyFull","authors":["SpidiBoost"],"environment":"client","entrypoints":{"client":["net.spidiboost.copyfull.CopyClient"]},"mixins":["copyfull.mixins.json"],"depends":{"minecraft":"1.21.4","fabric-api":"*","reallystafftool":"*","java":">=21"}}

@@ -1,0 +1,1 @@
+{"required":true,"package":"net.spidiboost.copyfull.mixin","compatibilityLevel":"JAVA_21","client":["CopyHook","HistoryPackets"],"injectors":{"defaultRequire":1}}
